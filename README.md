@@ -1,13 +1,14 @@
 # Login Page Demo
 
-This repository demonstrates a basic login landing page featuring username and password input fields.
-
-## Features
-
-*   Simple login form with dedicated input fields for username and password.
-*   Basic styling for a clean user interface.
-*   Submit button for form interaction.
+A basic demonstration of a login landing page featuring username and password input fields.
 
 ## Usage
 
-1.  Clone this repository
+1.  Clone this repository.
+2.  Open `index.html` in your web browser.
+
+## Files
+
+*   `index.html`: The main HTML structure for the login page.
+*   `style.css`: Stylesheet for the page's appearance.
+*   `script.js`: (Optional) JavaScript for client-side interactions or validation.
